@@ -1,0 +1,30 @@
+{
+  "name": "groupme-poker",
+  "version": "1.2.0",
+  "description": "GroupMe Poker",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixthea/groupme-poker.git"
+  },
+  "author": "Felix Thea <felixthea@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixthea/groupme-poker/issues"
+  },
+  "homepage": "https://github.com/felixthea/groupme-poker#readme"
+}
